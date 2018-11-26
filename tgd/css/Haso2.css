@@ -1,11 +1,8 @@
 @import url(https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css);
 
 html {
-  background: url(https://i.imgur.com/9S7UfZu.png) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover
+  background: #d2e7ef;
+  height: auto !important;
 }
 
 body {
@@ -18,7 +15,7 @@ header .row>div:nth-child(1)>a{
   display:block;
   width:145px;
   height:50px;
-  background:url(https://i.imgur.com/dsx0YiE.png) no-repeat
+  background:url(https://d4fodtu7cqfym.cloudfront.net/images/logo_new.png) no-repeat
 }
 
 header .row>div:nth-child(1)>a img{opacity:0}
@@ -34,14 +31,14 @@ header #header-bar #header-top-notice a,header #header-bar a.dropdown-toggle{
 }
 
 header #right-search-form>#right-search-btn{
-  color: #ffca18;
+  color: #4ab4f3;
   background:0 0;border:none;
   font-size:1.4em
 }
 
 header #right-search-form>input[type=text]{
   position:relative;
-  border:3px solid #ffca18;
+  border:3px solid #4ab4f3;
   background:#fff;
   font-size:1.1em;
   padding:.3em .5em
@@ -50,7 +47,7 @@ header #right-search-form>input[type=text]{
 header #header-bar>.row{
   padding-top:.3em;
   padding-bottom:.3em;
-  border-top:5px solid #ffca18;
+  border-top:5px solid #4ab4f3;
   border-bottom: none;
   border-right: none;
   z-index:200;
@@ -66,13 +63,13 @@ header #header-bar>.row{
 }
 
 header #header-bar #header-top-notice strong.notice-badge{
-  background: #ffca18;
+  background: #4ab4f3;
   padding:4px 8px;
   color:#fff;font-weight:700
 }
 
 #main .menu-wrapper>.header {
-  background: #ffca18;
+  background: #4ab4f3;
   color: #fff;
   padding: 0.45em 1.4em 0.45em 1em;
   font-weight:700;
@@ -87,7 +84,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #main .menu-wrapper>a>em {
-  color: #ffca18;
+  color: #4ab4f3;
   text-decoration: none;
   font-style: normal;
   width: 24px;
@@ -97,7 +94,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 .pagination>li>a,
 .pagination>li>span{
-  color: #ffca18
+  color: #4ab4f3
 }
 
 #main .menu-wrapper>a>i.fa.fa-square {
@@ -105,17 +102,17 @@ header #header-bar #header-top-notice strong.notice-badge{
     display: inline-block;
     text-align: center;
     font-size: 0.1em;
-    color: #ffca18;
+    color: #4ab4f3;
     vertical-align: 0.2em;
 }
 
 #main .menu-wrapper .spacer {
-  background: #ffca18;
+  background: #4ab4f3;
   height: 0.15em;
 }
 
 .pagination>li>a:hover{
-  background-color: #feee7d;
+  background-color: #9fe7fe;
   animation: infinite mabataki 1.5s;
   color:#fff
 }
@@ -126,12 +123,12 @@ header #header-bar #header-top-notice strong.notice-badge{
 .pagination>.active>span,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover{
-  background-color: #ffca18;
-  border-color: #ffca18
+  background-color: #4ab4f3;
+  border-color: #4ab4f3
 }
 
 #article-content-wrapper>.header{
-  border-top:3px solid #ffca18;
+  border-top:3px solid #4ab4f3;
   background: #e6e6fa
 }
 
@@ -147,7 +144,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-list>.article-list-row>.item>.list-header>span{
-  background-color: #ffca18;
+  background-color: #4ab4f3;
   color:#fff;
   font-weight:7;
   padding:1px 5px;
@@ -157,12 +154,12 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-list>.article-list-row:hover .item>.list-header.v0>span,
 #article-list>.article-list-row>.item>.list-header.v0>span:hover{
-  background-color: #fffacd !important
+  background-color: #a0dae4 !important
 }
 
 #article-list #article-list-category{
-  border-top:3px solid #ffca18;
-  background: #ffca18;
+  border-top:3px solid #4ab4f3;
+  background: #4ab4f3;
   border-radius:6px 6px 0 0;
   margin-top:10px
 }
@@ -170,7 +167,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 #article-list #article-list-category>a{
   display:inline-block;
   padding:11px 16px;
-  background: #ffca18;
+  background: #4ab4f3;
   text-decoration:none;
   font-size:12px;
   font-weight:700;
@@ -184,7 +181,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-list #article-list-category > a.active,
 #article-list #article-list-category>a:hover {
-  background: #ffca18
+  background: #4ab4f3
 }
 
 #article-reply-area #reply-best-area .reply,
@@ -213,7 +210,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-reply-area>.header{
   width:848.66px;
-  background: #ffca18;
+  background: #4ab4f3;
   margin:0 auto;
   border-radius:6px 6px 0 0;padding:1em
 }
@@ -225,25 +222,25 @@ header #header-bar #header-top-notice strong.notice-badge{
  }
   
 #article-reply-area #reply-best-area .reply>.reply-content{
-  background:#ffca18
+  background:#4ab4f3
 }
 
 #article-info,
 #article-list #article-list-category>a.active,
 #article-list #article-list-category>a:hover,
 h3{
-  background: #ffca18
+  background: #4ab4f3
 }
 
 @keyframes mabataki {
     0% {
-        background-color: #ffca18;
+        background-color: #4ab4f3;
     }
     40% {
-        background-color: #feee7d;
+        background-color: #b0ddf4;
     }
     100% {
-        background-color: #ffca18;
+        background-color: #4ab4f3;
     }
 }
 
@@ -255,7 +252,7 @@ h3{
 }
 
 #board-info {	
-  background-color: #ffca18;
+  background-color: #4ab4f3;
   width: 100%;	
   height: 75px;	
   overflow: hidden;	
@@ -265,7 +262,7 @@ h3{
  }
 
 #board-info h1 {	
-  background-color: #ffca18;	
+  background-color: #4ab4f3;	
   font-size: 24px;	
   vertical-align: top;	
   padding-bottom: 3px;	
@@ -311,15 +308,15 @@ h3{
 }	
 
 #board-info #viewers-area #viewers:before {	
-  content: "°è¶õ ";	
+  content: "랜뽑 ";	
 }		
 #board-info #viewers-area #viewers:after {	
-  content: "¾Ë ´ë±â Áß";	
+  content: "명 대기 중";	
 }	
 
 #board-info #viewers-area .fa-user:before {
     color: rgba(10, 59, 84, 0);
-    content: url("https://i.imgur.com/78hydwf.png");
+    content: url("https://static-cdn.jtvnw.net/badges/v1/0aeb9b3c-dd14-4528-8d66-1c46370cd297/1");
 }
 
 .badge {	
@@ -332,7 +329,7 @@ h3{
   text-align: left;	
   white-space: nowrap;	
   vertical-align: middle;	
-  background-color: #ffca18;	
+  background-color: #4ab4f3;	
   border-radius: 0px;	
 }	
 	
@@ -373,15 +370,6 @@ body{
   padding:0 1em 1em
 }
 
-#article-list #article-list-menu>.btn.best>.fa.fa-star:before,
-.btn-outline-success>i.fa.fa-thumbs-up:before,
-span.a-badge i.fa.fa-star:before{
-  content:url(https://i.imgur.com/78hydwf.png)
-}
-.btn-outline-primary>i.fa.fa-thumbs-down:before{
-  content:url(https://i.imgur.com/9WARR1A.png)
-}
-
 #article-list #article-list-menu>.btn.write{
   margin-right:1em
 }
@@ -404,7 +392,7 @@ h3{
 }
 
 .btn-primary{
-  background: #ffca18;
+  background: #4ab4f3;
   border-color:#fff
 }
 
@@ -413,7 +401,7 @@ h3{
 }
 
 .btn-primary:active,.btn-primary:focus{
-  background-color: #ffca18 !important;
+  background-color: #4ab4f3 !important;
   border:none
 }
 
@@ -422,11 +410,11 @@ h3{
 }
 
 #article-list>.article-list-row.notice{
-  background-color: #fafad2
+  background-color: #a0dae4
 }
 
 #article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{
-  background-color: #fffacd !important
+  background-color: #a0dae4 !important
 }
 
 #article-list>.article-list-row,
@@ -446,15 +434,15 @@ header>#header-search-bar #header-search-btn{color:#09f}
 }
 
 #article-list #article-list-menu>.btn.best,.btn-outline-success{
-  border-color: #ffca18;
-  color: #ffca18
+  border-color: #4ab4f3;
+  color: #4ab4f3
 }
 
 .fr-popup .fr-command.fr-btn,.fr-toolbar .fr-command.fr-btn{color: #4c4646}
-span.a-badge i.fa.fa-star{color: #ffca18}
+span.a-badge i.fa.fa-star{color: #4ab4f3}
 
 #article-list #article-list-menu>.btn.best{
   margin-left:1em
 }
 
-.badge{background: #ffca18}
+.badge{background: #4ab4f3}
