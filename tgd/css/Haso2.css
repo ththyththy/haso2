@@ -116,7 +116,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 .pagination>li>a:hover{
   background-color: #feee7d;
-  animation: infinite AquaLinkBG 1.5s;
+  animation: infinite mabataki 1.5s;
   color:#fff
 }
 
@@ -179,7 +179,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-list #article-list-category > a:hover {
-  animation: infinite AquaLinkBG 2s
+  animation: infinite mabataki 2s
 }
 
 #article-list #article-list-category > a.active,
@@ -235,7 +235,7 @@ h3{
   background: #ffca18
 }
 
-@keyframes AquaLinkBG {
+@keyframes mabataki {
     0% {
         background-color: #ffca18;
     }
@@ -311,10 +311,10 @@ h3{
 }	
 
 #board-info #viewers-area #viewers:before {	
-  content: "°è¶õ ";	
+  content: "Â°Ã¨Â¶Ãµ ";	
 }		
 #board-info #viewers-area #viewers:after {	
-  content: "¾Ë ´ë±â Áß";	
+  content: "Â¾Ã‹ Â´Ã«Â±Ã¢ ÃÃŸ";	
 }	
 
 #board-info #viewers-area .fa-user:before {
@@ -409,7 +409,7 @@ h3{
 }
 
 .btn-primary:hover{
-  animation: infinite AquaLinkBG 2s;
+  animation: infinite mabataki 2s;
 }
 
 .btn-primary:active,.btn-primary:focus{
