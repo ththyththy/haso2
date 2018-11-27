@@ -158,8 +158,8 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-list #article-list-category{
-  border-top:3px solid #4ab4f3;
-  background: #4ab4f3;
+  border-top:3px solid #1f94f5;
+  background: #1f94f5;
   border-radius:6px 6px 0 0;
   margin-top:10px
 }
@@ -167,7 +167,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 #article-list #article-list-category>a{
   display:inline-block;
   padding:11px 16px;
-  background: #4ab4f3;
+  background: #1f94f5;
   text-decoration:none;
   font-size:12px;
   font-weight:700;
@@ -181,7 +181,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-list #article-list-category > a.active,
 #article-list #article-list-category>a:hover {
-  background: #4ab4f3
+  background: #1f94f5
 }
 
 #article-reply-area #reply-best-area .reply,
@@ -410,7 +410,7 @@ h3{
 }
 
 #article-list>.article-list-row.notice{
-  background-color: #9cd6ec
+  background-color: #\
 }
 
 #article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{
