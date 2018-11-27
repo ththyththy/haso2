@@ -31,14 +31,14 @@ header #header-bar #header-top-notice a,header #header-bar a.dropdown-toggle{
 }
 
 header #right-search-form>#right-search-btn{
-  color: #4ab4f3;
+  color: #1f94f5;
   background:0 0;border:none;
   font-size:1.4em
 }
 
 header #right-search-form>input[type=text]{
   position:relative;
-  border:3px solid #4ab4f3;
+  border:3px solid #1f94f5;
   background:#fff;
   font-size:1.1em;
   padding:.3em .5em
@@ -47,7 +47,7 @@ header #right-search-form>input[type=text]{
 header #header-bar>.row{
   padding-top:.3em;
   padding-bottom:.3em;
-  border-top:5px solid #4ab4f3;
+  border-top:5px solid #1f94f5;
   border-bottom: none;
   border-right: none;
   z-index:200;
@@ -63,13 +63,13 @@ header #header-bar>.row{
 }
 
 header #header-bar #header-top-notice strong.notice-badge{
-  background: #4ab4f3;
+  background: #1f94f5;
   padding:4px 8px;
   color:#fff;font-weight:700
 }
 
 #main .menu-wrapper>.header {
-  background: #4ab4f3;
+  background: #1f94f5;
   color: #fff;
   padding: 0.45em 1.4em 0.45em 1em;
   font-weight:700;
@@ -84,7 +84,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #main .menu-wrapper>a>em {
-  color: #4ab4f3;
+  color: #1f94f5;
   text-decoration: none;
   font-style: normal;
   width: 24px;
@@ -94,7 +94,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 .pagination>li>a,
 .pagination>li>span{
-  color: #4ab4f3
+  color: #1f94f5
 }
 
 #main .menu-wrapper>a>i.fa.fa-square {
@@ -102,12 +102,12 @@ header #header-bar #header-top-notice strong.notice-badge{
     display: inline-block;
     text-align: center;
     font-size: 0.1em;
-    color: #4ab4f3;
+    color: #1f94f5;
     vertical-align: 0.2em;
 }
 
 #main .menu-wrapper .spacer {
-  background: #4ab4f3;
+  background: #1f94f5;
   height: 0.15em;
 }
 
@@ -123,12 +123,12 @@ header #header-bar #header-top-notice strong.notice-badge{
 .pagination>.active>span,
 .pagination>.active>span:focus,
 .pagination>.active>span:hover{
-  background-color: #4ab4f3;
-  border-color: #4ab4f3
+  background-color: #1f94f5;
+  border-color: #1f94f5
 }
 
 #article-content-wrapper>.header{
-  border-top:3px solid #4ab4f3;
+  border-top:3px solid #1f94f5;
   background: #9cd6ec
 }
 
@@ -144,7 +144,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-list>.article-list-row>.item>.list-header>span{
-  background-color: #4ab4f3;
+  background-color: #1f94f5;
   color:#fff;
   font-weight:7;
   padding:1px 5px;
@@ -158,8 +158,8 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 
 #article-list #article-list-category{
-  border-top:3px solid #4ab4f3;
-  background: #4ab4f3;
+  border-top:3px solid #1f94f5;
+  background: #1f94f5;
   border-radius:6px 6px 0 0;
   margin-top:10px
 }
@@ -167,7 +167,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 #article-list #article-list-category>a{
   display:inline-block;
   padding:11px 16px;
-  background: #4ab4f3;
+  background: #1f94f5;
   text-decoration:none;
   font-size:12px;
   font-weight:700;
@@ -181,7 +181,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-list #article-list-category > a.active,
 #article-list #article-list-category>a:hover {
-  background: #4ab4f3
+  background: #1f94f5
 }
 
 #article-reply-area #reply-best-area .reply,
@@ -210,7 +210,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-reply-area>.header{
   width:848.66px;
-  background: #4ab4f3;
+  background: #1f94f5;
   margin:0 auto;
   border-radius:6px 6px 0 0;padding:1em
 }
@@ -229,7 +229,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 #article-list #article-list-category>a.active,
 #article-list #article-list-category>a:hover,
 h3{
-  background: #4ab4f3
+  background: #1f94f5
 }
 
 @keyframes mabataki {
@@ -252,7 +252,7 @@ h3{
 }
 
 #board-info {	
-  background-color: #4ab4f3;
+  background-color: #1f94f5;
   width: 100%;	
   height: 75px;	
   overflow: hidden;	
@@ -262,7 +262,7 @@ h3{
  }
 
 #board-info h1 {	
-  background-color: #4ab4f3;	
+  background-color: #1f94f5;	
   font-size: 24px;	
   vertical-align: top;	
   padding-bottom: 3px;	
@@ -308,10 +308,10 @@ h3{
 }	
 
 #board-info #viewers-area #viewers:before {	
-  content: "랜뽑 ";	
+  content: "랜뽑단 ";	
 }		
 #board-info #viewers-area #viewers:after {	
-  content: "명 대기 중";	
+  content: " 명 컴폭파 대기 중";	
 }	
 
 #board-info #viewers-area .fa-user:before {
@@ -329,7 +329,7 @@ h3{
   text-align: left;	
   white-space: nowrap;	
   vertical-align: middle;	
-  background-color: #4ab4f3;	
+  background-color: #1f94f5;	
   border-radius: 0px;	
 }	
 	
@@ -392,7 +392,7 @@ h3{
 }
 
 .btn-primary{
-  background: #4ab4f3;
+  background: #1f94f5;
   border-color:#fff
 }
 
@@ -401,7 +401,7 @@ h3{
 }
 
 .btn-primary:active,.btn-primary:focus{
-  background-color: #4ab4f3 !important;
+  background-color: #1f94f5 !important;
   border:none
 }
 
@@ -410,11 +410,11 @@ h3{
 }
 
 #article-list>.article-list-row.notice{
-  background-color: #9cd6ec
+  background-color: #4ab4f3
 }
 
 #article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{
-  background-color: #9cd6ec !important
+  background-color: #9fe7fe !important
 }
 
 #article-list>.article-list-row,
@@ -434,15 +434,15 @@ header>#header-search-bar #header-search-btn{color:#09f}
 }
 
 #article-list #article-list-menu>.btn.best,.btn-outline-success{
-  border-color: #4ab4f3;
-  color: #4ab4f3
+  border-color: #1f94f5;
+  color: #1f94f5
 }
 
 .fr-popup .fr-command.fr-btn,.fr-toolbar .fr-command.fr-btn{color: #4c4646}
-span.a-badge i.fa.fa-star{color: #4ab4f3}
+span.a-badge i.fa.fa-star{color: #1f94f5}
 
 #article-list #article-list-menu>.btn.best{
   margin-left:1em
 }
 
-.badge{background: #4ab4f3}
+.badge{background: #1f94f5}
