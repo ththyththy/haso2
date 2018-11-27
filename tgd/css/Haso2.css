@@ -1,7 +1,7 @@
 @import url(https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css);
 
 html {
-  background: #d2e7ef;
+  background: #d6e6f5;
   height: auto !important;
 }
 
@@ -129,11 +129,11 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-content-wrapper>.header{
   border-top:3px solid #4ab4f3;
-  background: #e6e6fa
+  background: #9cd6ec
 }
 
 #article-content-wrapper>.footer{
-  background: #e6e6fa
+  background: #9cd6ec
 }
 
 #article-list{
@@ -154,7 +154,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 
 #article-list>.article-list-row:hover .item>.list-header.v0>span,
 #article-list>.article-list-row>.item>.list-header.v0>span:hover{
-  background-color: #a0dae4 !important
+  background-color: #9cd6ec !important
 }
 
 #article-list #article-list-category{
@@ -198,7 +198,7 @@ header #header-bar #header-top-notice strong.notice-badge{
 }
 #article-reply-area #reply-best-area .reply>.reply-header,
 #article-reply-area #reply-real-area .reply>.reply-header{
-  background: #e6e6fa;
+  background: #9cd6ec;
   width:auto;
   padding:.5em 1em
 }
@@ -222,7 +222,7 @@ header #header-bar #header-top-notice strong.notice-badge{
  }
   
 #article-reply-area #reply-best-area .reply>.reply-content{
-  background:#4ab4f3
+  background:#c1ffd7
 }
 
 #article-info,
@@ -410,11 +410,11 @@ h3{
 }
 
 #article-list>.article-list-row.notice{
-  background-color: #a0dae4
+  background-color: #9cd6ec
 }
 
 #article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{
-  background-color: #a0dae4 !important
+  background-color: #9cd6ec !important
 }
 
 #article-list>.article-list-row,
