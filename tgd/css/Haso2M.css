@@ -82,7 +82,8 @@ nav#nav>.nav-header{background:#1f94f5}
   border-top:4px solid #1f94f5;
   background:#4ab4f3;
   max-height:46px;
-  max-block-size:46px
+  max-block-size:46px;
+  border-bottom: 0
 }
 
 #board-info>a.board-right-menu{
