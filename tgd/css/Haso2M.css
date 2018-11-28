@@ -55,22 +55,19 @@ header>#header-area>#header-bar-link{
 
 #article-list #article-list-category,
 #article-list #article-list-category a {
-    background: #4ab4f3 !important;
+  background: #4ab4f3 !important;
 }
-#article-list #article-list-category {
-    border-top: 3px solid #1f94f5;
-}
+#article-list #article-list-category {border-top: 3px solid #1f94f5}
 #article-list #article-list-category > a {
-    display: inline-block;
-    padding: 11px 16px;
-    background: #ffffff;
-    text-decoration: none;
-    font-size: 12px;
-    font-weight: bold;
+  display: inline-block;
+  padding: 11px 16px;
+  background: #ffffff;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+  color:#fff!important;
 }
-#article-list #article-list-category > a:focus {
-    background: #4ab4f3;
-}
+#article-list #article-list-category > a:focus {background: #4ab4f3}
 
 #article-reply-area #reply-best-area .reply>.reply-header,
 #article-reply-area #reply-real-area .reply>.reply-header{background:#9cd6ec!important}
