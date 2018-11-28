@@ -1,5 +1,5 @@
 #main-content,body,footer{
-  background:#fafad2 !important
+  background:#4ab4f3 !important
 }
 
 span.a-badge i.fa.fa-info-circle{
@@ -8,7 +8,7 @@ span.a-badge i.fa.fa-info-circle{
 
 header{
   border-bottom-color:#1f94f5 !important;
-  background:#fdeca6 !important
+  background:#4ab4f3 !important
 }
 
 header>#header-search-bar #header-search-input{border:2px solid #1f94f5}
@@ -34,13 +34,13 @@ header>#header-area>#header-bar-link{
   background:#1f94f5 !important
 }
 
-#article-content-wrapper>.header,
-#article-list>.article-list-row.notice{
+#article-content-wrapper>.header{
+  border-top:2px solid #1f94f5;
   background:#4ab4f3 !important
 }
 
-#article-content-wrapper>.header{
-  border-top:2px solid #1f94f5
+#article-list>.article-list-row.notice{
+  background:#cae7f3 !important
 }
 
 #article-list>.article-list-row has-category notice>.item>.list-header>strong{width:0}
@@ -50,32 +50,27 @@ header>#header-area>#header-bar-link{
 #article-list>.article-list-row.notice>.item>.list-header{width:12px}
 #article-list>.article-list-row>.item>span.a-badge{width:40px}
 #article-list>.article-list-row>.item>a.list-title>.title-value{max-width:240px}
-#article-list>.article-list-row>.item>.list-header>span{background-color:#1f94f5 !important}
+#article-list>.article-list-row>.item>.list-header>span{background-color:#cae7f3 !important}
 #article-list>.article-list-row>.item>.list-header>strong{font-size:0;padding:0}
-#article-list #article-list-category{background:#9cd6ec}
+#article-list #article-list-category{background:#4ab4f3}
 #article-list #article-list-category>a{
   display:inline-block;
   padding:11px 16px;
-  background:#9cd6ec;
+  background:#4ab4f3;
   text-decoration:none;
   font-size:12px;
   font-weight:700
 }
+
 #article-list #article-list-category>a:focus{background:#fff}
 #article-reply-area #reply-best-area .reply>.reply-header,
 #article-reply-area #reply-real-area .reply>.reply-header{background:#9cd6ec!important}
 #article-reply-area>.header h5{color:#585858}
 #article-reply-area #reply-real-area .reply>.reply-header>.reply-writer.logged{color:#1f94f5!important}
-#article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{background-color:#9cd6ec}
+#article-list>.article-list-row.notice:hover,#article-list>.article-list-row:hover{background-color:#cae7f3}
 nav#nav>.nav-header{background:#1f94f5}
 #article-list #article-list-menu>.btn.best>.fa.fa-star:before,
 .btn-outline-success>i.fa.fa-thumbs-up:before,
-span.a-badge i.fa.fa-star:before{
-  content:url(https://i.imgur.com/78hydwf.png)
-}
-.btn-outline-primary>i.fa.fa-thumbs-down:before{
-  content:url(https://i.imgur.com/9WARR1A.png)
-}
 #article-list #article-list-menu>.btn.best,
 .btn-outline-success{border-color:#1f94f5;color:#1f94f5}
 
