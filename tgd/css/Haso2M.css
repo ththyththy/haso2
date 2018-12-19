@@ -13,11 +13,11 @@ header{
 
 header>#header-search-bar #header-search-input{border:2px solid #1f94f5}
 header>#header-area>#header-search-link,header>#header-search-bar #header-search-btn{color:#1f94f5}
-header>#header-area>a>h1{
-  background:url(https://raw.githubusercontent.com/for-haso/storage/master/png/logo_nyo_white.png) no-repeat;
-  background-size:90px 32px
+header > #header-area > a > h1 {
+    width: 90px;
+    background: url(https://raw.githubusercontent.com/for-haso/storage/master/png/logo_nyo_white.png) no-repeat;
+    background-size: 90px 32px;
 }
-
 #article-list>.article-list-row>.item>a.list-title>.list-writer.logged>span,
 .pagination>li>a,
 .pagination>li>span,
