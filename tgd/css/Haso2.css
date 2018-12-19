@@ -11,12 +11,15 @@ body {
   font-size: 15px
 }
 
-header .row>div:nth-child(1)>a{
-  display:block;
-  width:145px;
-  height:50px;
-  background:url(https://raw.githubusercontent.com/for-haso/storage/master/png/logo_nyo.png) no-repeat
+header .row>div:nth-child(1)>a {
+  display: block;
+  width: 240px;
+  height: 50px;
+  background: url(https://raw.githubusercontent.com/for-haso/storage/master/png/logo_nyo.png) no-repeat;
+  background-size: auto 50px;
 }
+
+
 
 header .row>div:nth-child(1)>a img{opacity:0}
 
