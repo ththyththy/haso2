@@ -1,5 +1,7 @@
-@import url(https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css);
+@import url("https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css");
+@import url("https://ththyththy.github.io/haso2/tgd/css/hasosnow.css");
 
+/*
 html {
   background: #d6e6f5;
   height: auto !important;
@@ -10,6 +12,7 @@ body {
   font-family: 'NanumSquareRound';
   font-size: 15px
 }
+*/
 
 header .row>div:nth-child(1)>a {
   display: block;
