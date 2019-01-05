@@ -332,7 +332,7 @@ board-info #viewers-area #viewers {
 }
 
 #board-info #viewers-area #viewers:before {	
-  content: "<= 단 하나남은 과거의 유산   랜뽑단 ";	
+  content: "<= 단 하나남은 과거의 유산　　랜뽑단 ";	
 }		
 #board-info #viewers-area #viewers:after {	
   content: " 명 컴폭파 대기 중";	
