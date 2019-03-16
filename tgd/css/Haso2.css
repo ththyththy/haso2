@@ -1,6 +1,6 @@
 @font-face {
-  font-family: '777Balsamtint';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/777Balsamtint.woff') format('woff');
+  font-family: 'Goyang';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Goyang.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -12,7 +12,7 @@ html {
 
 body {
   background: transparent;
-  font-family: '777Balsamtint';
+  font-family: 'Goyang';
   font-size: 15px
 }
 
