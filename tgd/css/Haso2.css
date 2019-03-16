@@ -1,9 +1,4 @@
-@font-face {
-  font-family: 'Goyang';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Goyang.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
+@import url("https://cdn.rawgit.com/innks/NanumSquareRound/master/nanumsquareround.css");
 
 html {
   background: #d6e6f5;
@@ -12,7 +7,7 @@ html {
 
 body {
   background: transparent;
-  font-family: 'Goyang';
+  font-family: 'NanumSquareRound';
   font-size: 15px
 }
 
