@@ -1,6 +1,11 @@
 /*@import url("https://ththyththy.github.io/haso2/tgd/css/hasosnow.css");*/
 /*@import url("https://ththyththy.github.io/haso2/tgd/css/HappyXMAS.css");*/
-@font-face { font-family: '777Balsamtint'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/777Balsamtint.woff') format('woff'); font-weight: normal; font-style: normal; }
+@font-face {
+  font-family: '777Balsamtint';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/777Balsamtint.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
 
 html {
   background: #d6e6f5;
