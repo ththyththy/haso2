@@ -333,7 +333,7 @@ board-info #viewers-area #viewers {
 }
 
 #board-info #viewers-area #viewers:before {	
-  content: "<= 박제된 마지막 표본　　랜뽑단 ";	
+  content: "랜뽑단 ";	
 }		
 #board-info #viewers-area #viewers:after {	
   content: " 명 컴폭파 대기 중";	
@@ -347,7 +347,7 @@ board-info #viewers-area #viewers {
 
 #board-info #viewers-area .fa-user:before {
     color: rgba(10, 59, 84, 0);
-    content: url("https://static-cdn.jtvnw.net/badges/v1/0aeb9b3c-dd14-4528-8d66-1c46370cd297/1");
+    content: url("https://static-cdn.jtvnw.net/badges/v1/91d44cc1-c2c6-428c-85b1-1f54c7f0ee0f/1");
 }
 
 .badge {	
