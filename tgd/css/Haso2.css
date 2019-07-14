@@ -333,10 +333,10 @@ board-info #viewers-area #viewers {
 }
 
 #board-info #viewers-area #viewers:before {	
-  content: "랜뽑단 ";	
+  content: "민초단 ";	
 }		
 #board-info #viewers-area #viewers:after {	
-  content: " 명 컴폭파 대기 중";	
+  content: " 명 하소에게 입덕 중 ♥";	
 }	
 
 #board-info #viewers-area i.fa {
